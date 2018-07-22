@@ -1,0 +1,10 @@
+ {
+ "name":"Extended_Trains",
+ "version":"0.1.0",
+ "title":"Extended Trains",
+ "author":"Puddles Rex",
+ "description":"This mod provides extended features to the train system in Factorio",
+ "contact": "eric.sakshaug11@gmail.com",
+ "factorio_version":"0.16.51",
+ "dependencies":["base"]
+ }
